@@ -4,7 +4,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:gehnamall/common/shimmers/Light_categories_shimmer.dart';
 import 'package:gehnamall/hooks/fetchCategory.dart';
 import 'package:gehnamall/models/category_models.dart';
-import 'package:gehnamall/models/sub_categories_models.dart';
 import 'package:gehnamall/views/home/category/categories_widgets.dart';
 import 'package:gehnamall/views/home/category/gender_selction/Gender_selection.dart';
 import 'package:gehnamall/views/home/category/subCategory/subcategory_list.dart';
